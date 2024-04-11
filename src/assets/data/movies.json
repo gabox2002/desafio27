@@ -1,0 +1,163 @@
+[
+    {
+      "id": 1,
+      "title": "El Padrino",
+      "description": "La historia de la familia Corleone, dirigida por el patriarca Vito Corleone, jefe de una de las familias mafiosas más poderosas de Nueva York.",
+      "genre": "Drama/Crimen",
+      "duration": "175 minutos",
+      "image": "https://pics.filmaffinity.com/the_godfather-488102675-msmall.jpg"
+    },
+    {
+      "id": 2,
+      "title": "La Lista de Schindler",
+      "description": "La historia real de Oskar Schindler, un empresario alemán que salvó la vida de más de mil judíos durante el Holocausto al emplearlos en sus fábricas.",
+      "genre": "Drama/Historia",
+      "duration": "195 minutos",
+      "image": "https://pics.filmaffinity.com/schindler_s_list-473662617-mmed.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Forrest Gump",
+      "description": "La vida de Forrest Gump, un hombre con un coeficiente intelectual bajo, pero con una gran bondad y un espíritu inquebrantable, que se ve involucrado en importantes eventos históricos de Estados Unidos.",
+      "genre": "Drama/Comedia",
+      "duration": "142 minutos",
+      "image": "https://pics.filmaffinity.com/forrest_gump-212765827-large.jpg"
+    },
+    {
+      "id": 4,
+      "title": "El Señor de los Anillos: La Comunidad del Anillo",
+      "description": "Frodo Bolsón, un hobbit, emprende un viaje para destruir un poderoso anillo y evitar que caiga en manos del malvado Señor Oscuro Sauron.",
+      "genre": "Fantasía/Aventura",
+      "duration": "178 minutos",
+      "image": "https://pics.filmaffinity.com/the_lord_of_the_rings_the_fellowship_of_the_ring-952398002-large.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Pulp Fiction",
+      "description": "Las vidas interconectadas de varios personajes, incluidos dos asesinos a sueldo, un boxeador, un gangster y la esposa de un gánster, en Los Ángeles.",
+      "genre": "Drama/Crimen",
+      "duration": "154 minutos",
+      "image": "https://pics.filmaffinity.com/pulp_fiction-210382116-large.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Matrix",
+      "description": "Un hacker informático descubre que el mundo en el que vive es una simulación creada por máquinas inteligentes, y se une a la resistencia para liberar a la humanidad.",
+      "genre": "Ciencia ficción/Acción",
+      "duration": "136 minutos",
+      "image": "https://pics.filmaffinity.com/the_matrix-155050517-large.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Interestelar",
+      "description": "Un grupo de exploradores viaja a través de un agujero de gusano en el espacio en busca de un nuevo hogar para la humanidad, enfrentándose a desafíos científicos y personales en el camino.",
+      "genre": "Ciencia ficción/Drama",
+      "duration": "169 minutos",
+      "image": "https://pics.filmaffinity.com/interstellar-366875261-large.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Titanic",
+      "description": "El romance épico entre Jack y Rose, dos pasajeros a bordo del Titanic, que se encuentran en medio del trágico hundimiento del famoso transatlántico.",
+      "genre": "Drama/Romance",
+      "duration": "195 minutos",
+      "image": "https://pics.filmaffinity.com/titanic-321994924-large.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Volver al Futuro",
+      "description": "Un joven es enviado accidentalmente al pasado en un DeLorean modificado por un excéntrico científico, donde debe asegurarse de que sus padres se enamoren para salvar su propia existencia.",
+      "genre": "Ciencia ficción/Aventura",
+      "duration": "116 minutos",
+      "image": "https://pics.filmaffinity.com/back_to_the_future-100822308-large.jpg"
+    },
+    {
+      "id": 10,
+      "title": "El Rey León",
+      "description": "La historia de Simba, un joven león que debe enfrentar a su tío malvado para reclamar su lugar legítimo como rey de la selva.",
+      "genre": "Animación/Aventura",
+      "duration": "88 minutos",
+      "image": "https://pics.filmaffinity.com/the_lion_king-983881776-large.jpg"
+    },
+    {
+      "id": 11,
+      "title": "El Gran Lebowski",
+      "description": "Un vago llamado 'El Nota' es confundido con un millonario del mismo nombre y se ve envuelto en una serie de situaciones extrañas y cómicas.",
+      "genre": "Comedia/Crimen",
+      "duration": "117 minutos",
+      "image": "https://pics.filmaffinity.com/the_big_lebowski-877217211-large.jpg"
+    },
+    {
+      "id": 12,
+      "title": "Star Wars: Episodio IV - Una Nueva Esperanza",
+      "description": "Luke Skywalker se une a la Alianza Rebelde para combatir al malvado Imperio Galáctico, mientras intenta rescatar a la Princesa Leia de las garras del temible Darth Vader.",
+      "genre": "Ciencia ficción/Aventura",
+      "duration": "121 minutos",
+      "image": "https://pics.filmaffinity.com/star_wars-166209019-large.jpg"
+    },
+    {
+      "id": 13,
+      "title": "El Resplandor",
+      "description": "Un escritor acepta un trabajo de cuidador de un hotel durante el invierno, pero la soledad y el aislamiento lo llevan a la locura mientras el hotel ejerce su siniestra influencia sobre él.",
+      "genre": "Drama/Terror",
+      "duration": "146 minutos",
+      "image": "https://pics.filmaffinity.com/the_shining-453129380-large.jpg"
+    },
+    {
+      "id": 14,
+      "title": "Jurassic Park",
+      "description": "Un parque temático con dinosaurios reales se convierte en una pesadilla cuando los dinosaurios escapan y comienzan a causar estragos entre los visitantes.",
+      "genre": "Ciencia ficción/Aventura",
+      "duration": "127 minutos",
+      "image": "https://pics.filmaffinity.com/jurassic_park-187298880-large.jpg"
+    },
+    {
+      "id": 15,
+      "title": "Gladiator",
+      "description": "Un general romano traicionado por el hijo del emperador se convierte en esclavo y lucha como gladiador para vengarse y recuperar su libertad.",
+      "genre": "Drama/Acción",
+      "duration": "155 minutos",
+      "image": "https://pics.filmaffinity.com/gladiator-331143379-large.jpg"
+    },
+    {
+      "id": 16,
+      "title": "La Vida es Bella",
+      "description": "Un hombre utiliza su imaginación y su humor para proteger a su hijo pequeño de los horrores de un campo de concentración durante el Holocausto.",
+      "genre": "Drama/Comedia",
+      "duration": "116 minutos",
+      "image": "https://pics.filmaffinity.com/la_vita_e_bella-646167341-large.jpg"
+    },
+    {
+      "id": 17,
+      "title": "El Exorcista",
+      "description": "Una madre lucha por salvar el alma de su hija poseída por una fuerza demoníaca, recurriendo a la ayuda de dos sacerdotes para realizar un exorcismo.",
+      "genre": "Terror/Drama",
+      "duration": "122 minutos",
+      "image": "https://pics.filmaffinity.com/the_exorcist-742137399-large.jpg"
+    },
+    {
+      "id": 18,
+      "title": "El Silencio de los Inocentes",
+      "description": "Una joven agente del FBI busca la ayuda de un psicópata encarcelado para atrapar a otro asesino en serie, conocido como Buffalo Bill.",
+      "genre": "Drama/Crimen",
+      "duration": "118 minutos",
+      "image": "https://pics.filmaffinity.com/killerjagd_tote_mich_wenn_du_kannst_tv-574040680-large.jpg"
+    },
+    {
+      "id": 19,
+      "title": "La La Land",
+      "description": "Un pianista de jazz y una aspirante a actriz se enamoran en Los Ángeles, pero sus sueños profesionales ponen a prueba su relación.",
+      "genre": "Drama/Romance",
+      "duration": "128 minutos",
+      "image": "https://pics.filmaffinity.com/la_la_land-262021831-large.jpg"
+    },
+    {
+      "id": 20,
+      "title": "Cadena Perpetua",
+      "description": "Un hombre es condenado injustamente por el asesinato de su esposa y pasa décadas en la cárcel mientras intenta probar su inocencia.",
+      "genre": "Drama/Crimen",
+      "duration": "142 minutos",
+      "image": "https://pics.filmaffinity.com/the_shawshank_redemption-576140557-large.jpg"
+    }
+  ]
+  

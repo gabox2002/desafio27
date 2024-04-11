@@ -1,0 +1,123 @@
+/* Estilos generales */
+body {
+    font-family: system-ui, sans-serif, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: lightskyblue;
+}
+
+nav {
+    background-color: #333;
+    color: #fff;
+    padding: 20px 80px;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 40px;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+/* Home */
+.home-container {
+    text-align: center;
+}
+.home-container img {
+    width: 90%;
+    max-width: 700px;
+}
+
+/* Catalog */
+.catalog {
+    padding: 20px;
+}
+
+.catalog h2 {
+    margin-bottom: 30px;
+    text-align: center;
+    border-bottom: 1px solid darkblue;
+}
+
+.movie-list {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 20px;
+}
+
+.movie-card {
+    width: 100%;
+    border: 1px solid black;
+    border-radius: 5px;
+    overflow: hidden;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    background-color: black;
+    color: white;
+}
+
+.movie-card img {
+    width: 100%;
+    height: 85%;
+}
+
+.movie-card h3 {
+    top: 50%;
+    left: 50%;
+    margin: 0;
+    font-size: 16px;
+    text-align: center;
+    pointer-events: none;
+    text-decoration: none;
+    padding: 10px;
+}
+.movie-card a {
+    text-decoration: none;
+    color: inherit;
+}
+
+/* MovieDetail */
+.movie-detail {
+    padding: 20px;
+    margin: 0 40px;
+   
+}
+.movie-detail h2 {
+    margin-bottom: 30px;
+    text-align: center;
+    border-bottom: 1px solid darkblue;
+}
+.movie-container {
+    display: flex;
+    flex-direction: row;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.img-container {
+    width: 300px;
+}
+
+.img-container img {
+    min-width: 150px;
+    width: 100%;
+}
+.description-container{
+    align-self: flex-start;
+}
+.description-container p {
+    margin-bottom: 10px;
+    margin-left: 20px;
+    font-weight: bold;
+}
+.description-container span {
+    margin-bottom: 10px;
+    font-weight: lighter;
+}
